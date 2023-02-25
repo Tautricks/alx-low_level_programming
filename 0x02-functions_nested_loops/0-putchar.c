@@ -1,3 +1,4 @@
+table file 23 lines (18 sloc) 243 Bytes
 #include "main.h"
 /**
  * main - print the word _putchar following by a new line
