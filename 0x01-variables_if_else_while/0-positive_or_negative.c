@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - clasifica a n
- * Return: cero
+ * main - clasification
+ * Return: Zero
 */
 int main(void)
 {
