@@ -1,4 +1,4 @@
-#include "mai:n.h"
+#include "main.h"
 /**
  * main - print the word _putchar following by a new line
  *
