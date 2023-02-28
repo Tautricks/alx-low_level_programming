@@ -11,6 +11,6 @@ int main(void)
 {
 	char str[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
 
-	fputs(str, sizeof(str), 1, stderr);
+	putchar(str, sizeof(str), 1, stderr);
 	return (1);
 }
