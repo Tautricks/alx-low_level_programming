@@ -1,1 +1,3 @@
-low level programming
+static libraries
+
+this gives an understanding of statics
